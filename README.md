@@ -1,8 +1,7 @@
 <h2> <b>GitHub user search //  Buscador de usuários Github</b> </h2> 
 <br> 
 
-<p> <b>Application Content</b> <br>
-• Link to application: <br>
+• Link to application deploy: <br>
     ↳ https://git-hub-user-search-zeta.vercel.app/ <br>
 
 <p> <b>Application Content</b> <br>
